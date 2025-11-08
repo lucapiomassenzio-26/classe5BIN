@@ -2,5 +2,5 @@
 ## Ingredienti:
 * Pennette
 * Pepe nero
-* Pancetta
+* Guanciale
 * Uova
